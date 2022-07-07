@@ -1,4 +1,4 @@
 {
-	"name": "Tiktokmusic-API",
+	"name": "Music-API",
 	"total-music": "161"
 }
